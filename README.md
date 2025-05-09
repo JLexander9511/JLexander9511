@@ -1,1 +1,1 @@
-# Web Developer / Js/Ts Developer
+# Web Developer - Js / Ts Developer
