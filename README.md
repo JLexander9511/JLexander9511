@@ -1,2 +1,1 @@
-# Mi portafolio
-Primera edicion de mi portafolio
+# Web Developer / Js/Ts Developer
